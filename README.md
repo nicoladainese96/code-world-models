@@ -2,6 +2,8 @@
 
 Code for the "Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search" paper submitted to NeurIPS 2024.
 
+See webpage at https://sites.google.com/view/code-world-models/home
+
 ## Installation
 
 To install the required packages, run the following command:
