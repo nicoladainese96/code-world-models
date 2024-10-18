@@ -1,0 +1,23 @@
+h1 {
+  font-size: 2em !important;
+  font-weight: bold !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+ul {
+  list-style-type: disc !important;
+  padding-left: 1rem !important;
+}
+
+h2 {
+  font-size: 1.75em !important;
+  font-weight: bold !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+.language-python {
+  background: rgb(209 213 219) !important;
+  border-radius: 1rem !important;
+}
