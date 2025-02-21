@@ -1,6 +1,6 @@
 # Code World Models
 
-Code for the "Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search" paper submitted to NeurIPS 2024.
+Code for the "Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search" paper published at [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6f479ea488e0908ac8b1b37b27fd134c-Abstract-Conference.html).
 
 See webpage at https://sites.google.com/view/code-world-models/home
 
